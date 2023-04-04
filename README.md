@@ -8,5 +8,5 @@ to download and start program
 #git clone https://github.com/TheBes3rdsGroup/Bitcoin-Hijacking
 #python rewards.py
 </code>
-This program was created for Educational purposes and should never be use/attempted to be use in any criminal activities in any ways.
-i shall not be responsible on how you use it.
+<bold> This program was created for Educational purposes and should never be use/attempted to be use in any criminal activities in any ways.
+i shall not be responsible on how you use it. </bold>
